@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+ 
+}
+
+@media (min-width: 400px){
+.navbar{
+    widows: 200% !important;
+}
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(3.jpg);
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center center;
+}
